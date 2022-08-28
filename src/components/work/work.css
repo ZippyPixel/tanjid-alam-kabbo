@@ -1,0 +1,78 @@
+.container.work__container {
+    width: 50%;
+    padding-bottom: 2rem;
+}
+
+.work__image {
+    width: 30%;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    margin: 0 auto 1rem;
+}
+
+.work {
+    background: var(--color-bg-variant);
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+    user-select: none;
+}
+
+.job {
+    font-size: 1rem;
+}
+
+.job__duration {
+    color: var(--color-light);
+    font-weight: 100;
+    font-size: .8rem;
+    font-style: italic;
+}
+
+.job__role{
+    color: var(--color-primary);
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.job__type {
+    color: var(--color-light);
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.work > h2 {
+    padding-top: 1.5rem;
+}
+
+.job__description {
+    color: var(--color-light);
+    font-weight: 300;
+    display: block;
+    width: 100%;
+    margin: 0.8rem auto 0;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
+}
+
+/* ====================== MEDIA QUERIES (TABLET) ==================*/
+
+@media screen and (max-width: 1024px) {
+    .container.work__container {
+        width: 60%;
+    }
+}
+
+/* ====================== MEDIA QUERIES (MOBILE) ==================*/
+
+@media screen and (max-width: 600px) {
+    .container.work__container {
+        width: var(--container-width-sm);
+    }
+
+    .job__description {
+        width: var(--container-width-sm);
+    }
+}
