@@ -17,7 +17,7 @@ const data = [
     image: PortfolioWeb,
     title: 'Portfolio Website',
     language: 'Framework: React',
-    github: 'https://github.com/ZippyPixel/'
+    github: 'https://github.com/ZippyPixel/tanjid-alam-kabbo'
   },
   {
     id: 3,
