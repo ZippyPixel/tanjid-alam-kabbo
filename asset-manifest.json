@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tanjid-alam-kabbo/static/css/main.5f5191e3.css",
-    "main.js": "/tanjid-alam-kabbo/static/js/main.e97d94de.js",
+    "main.js": "/tanjid-alam-kabbo/static/js/main.e2d82d2e.js",
     "static/media/cover.png": "/tanjid-alam-kabbo/static/media/cover.7c7dba8edb03ac3f1e19.png",
-    "static/media/Tanjid Alam Kabbo.pdf": "/tanjid-alam-kabbo/static/media/Tanjid Alam Kabbo.471fea2d58cd294cdae5.pdf",
     "static/media/profile.jpg": "/tanjid-alam-kabbo/static/media/profile.b5c50b09249eeda40eb7.jpg",
     "static/media/nourish.jpg": "/tanjid-alam-kabbo/static/media/nourish.21e15ac5efb5fadff84a.jpg",
     "static/media/weather.jpg": "/tanjid-alam-kabbo/static/media/weather.73ec547cf8320beb347e.jpg",
+    "static/media/CV - Tanjid Alam Kabbo.pdf": "/tanjid-alam-kabbo/static/media/CV - Tanjid Alam Kabbo.c8722cbea13c73f1a181.pdf",
     "static/media/portfolio-web.jpg": "/tanjid-alam-kabbo/static/media/portfolio-web.057d863ee65b4ffa7fa3.jpg",
     "static/media/x.png": "/tanjid-alam-kabbo/static/media/x.478c8fdb6f8ffcdc0e03.png",
     "static/media/question.png": "/tanjid-alam-kabbo/static/media/question.b36077c4fdf5050c19c9.png",
     "index.html": "/tanjid-alam-kabbo/index.html",
     "main.5f5191e3.css.map": "/tanjid-alam-kabbo/static/css/main.5f5191e3.css.map",
-    "main.e97d94de.js.map": "/tanjid-alam-kabbo/static/js/main.e97d94de.js.map"
+    "main.e2d82d2e.js.map": "/tanjid-alam-kabbo/static/js/main.e2d82d2e.js.map"
   },
   "entrypoints": [
     "static/css/main.5f5191e3.css",
-    "static/js/main.e97d94de.js"
+    "static/js/main.e2d82d2e.js"
   ]
 }
